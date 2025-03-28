@@ -279,6 +279,187 @@ const questions = [
         ],
         correctAnswer: "B"
     },
+    {
+        "question": "Wat is het doel van een Sprint Planning?",
+        "options": [
+            "A) Het bepalen van de doelen en werkitems voor de komende sprint",
+            "B) Het evalueren van de prestaties van het team",
+            "C) Het plannen van de release van een product"
+        ],
+        "correctAnswer": "A"
+    },
+    {
+        "question": "Wie is verantwoordelijk voor het creëren en onderhouden van de Product Backlog?",
+        "options": [
+            "A) Het Scrum Team",
+            "B) De Scrum Master",
+            "C) De Product Owner"
+        ],
+        "correctAnswer": "C"
+    },
+    {
+        "question": "Wat wordt bedoeld met de term 'Done' in Scrum?",
+        "options": [
+            "A) Wanneer een taak is begonnen",
+            "B) Wanneer een taak volledig is voltooid volgens de acceptatiecriteria",
+            "C) Wanneer een taak is goedgekeurd door de Product Owner"
+        ],
+        "correctAnswer": "B"
+    },
+    {
+        "question": "Welke van de volgende is geen Scrum event?",
+        "options": [
+            "A) Sprint",
+            "B) Sprint Retrospective",
+            "C) Sprint Review",
+            "D) Sprint Planning"
+        ],
+        "correctAnswer": "D"
+    },
+    {
+        "question": "Wie zorgt ervoor dat het Scrum-proces goed wordt gevolgd?",
+        "options": [
+            "A) Scrum Master",
+            "B) Product Owner",
+            "C) Developers"
+        ],
+        "correctAnswer": "A"
+    },
+    {
+        "question": "Wat gebeurt er tijdens een Sprint Review?",
+        "options": [
+            "A) Het team bespreekt de voortgang van het project",
+            "B) Het team presenteert de voltooide werkitems aan de stakeholders",
+            "C) Het team maakt plannen voor de volgende sprint"
+        ],
+        "correctAnswer": "B"
+    },
+    {
+        "question": "Wat is het belangrijkste doel van de Daily Scrum?",
+        "options": [
+            "A) De voortgang bespreken",
+            "B) Blokkades identificeren en oplossen",
+            "C) De doelen voor de komende sprint stellen"
+        ],
+        "correctAnswer": "B"
+    },
+    {
+        "question": "Wat is de Product Backlog?",
+        "options": [
+            "A) Een lijst van alles wat er in het product moet komen, inclusief nieuwe features, verbeteringen en fixes",
+            "B) Een lijst van alles wat er in de huidige sprint moet worden afgerond",
+            "C) Een lijst van alleen de belangrijkste productfuncties"
+        ],
+        "correctAnswer": "A"
+    },
+    {
+        "question": "Wat wordt bedoeld met de term 'Increment' in Scrum?",
+        "options": [
+            "A) Een herhaalbare sprint",
+            "B) Het werk dat in de laatste sprint is voltooid",
+            "C) De toegevoegde waarde van het product aan het einde van de sprint"
+        ],
+        "correctAnswer": "C"
+    },
+    {
+        "question": "Wat gebeurt er in een Sprint Retrospective?",
+        "options": [
+            "A) Het team presenteert hun werk aan de stakeholders",
+            "B) Het team bespreekt hoe de sprint is verlopen en identificeert verbeteringen voor de toekomst",
+            "C) Het team maakt plannen voor de volgende sprint"
+        ],
+        "correctAnswer": "B"
+    },
+    {
+        "question": "Wat betekent de term 'Scrum Team'?",
+        "options": [
+            "A) Een team van Scrum Masters",
+            "B) Een team dat verantwoordelijk is voor het uitvoeren van de sprint en het leveren van werk",
+            "C) Een team dat verantwoordelijk is voor het plannen van de sprint"
+        ],
+        "correctAnswer": "B"
+    },
+    {
+        "question": "Wie kan de Product Backlog prioriteren?",
+        "options": [
+            "A) De Scrum Master",
+            "B) De Product Owner",
+            "C) Het volledige Scrum Team"
+        ],
+        "correctAnswer": "B"
+    },
+    {
+        "question": "Wat is de belangrijkste taak van de Scrum Master?",
+        "options": [
+            "A) Het beheren van de Product Backlog",
+            "B) Het leiden van de Sprint Planning",
+            "C) Het ondersteunen van het team bij het naleven van Scrum en het verbeteren van hun processen"
+        ],
+        "correctAnswer": "C"
+    },
+    {
+        "question": "Wat is het doel van een Sprint?",
+        "options": [
+            "A) Om het product te lanceren",
+            "B) Om een bruikbare en potentieel releasable increment van het product te leveren",
+            "C) Om het team te evalueren"
+        ],
+        "correctAnswer": "B"
+    },
+    {
+        "question": "Hoe lang duurt een typische Scrum Sprint?",
+        "options": [
+            "A) 1 week",
+            "B) 2-4 weken",
+            "C) 6 maanden"
+        ],
+        "correctAnswer": "B"
+    },
+    {
+        "question": "Wat is de rol van de Developer in Scrum?",
+        "options": [
+            "A) Het uitvoeren van technische implementaties en het opleveren van werk",
+            "B) Het beheren van de Product Backlog",
+            "C) Het begeleiden van het team"
+        ],
+        "correctAnswer": "A"
+    },
+    {
+        "question": "Wat is het belangrijkste doel van de Scrum Guide?",
+        "options": [
+            "A) Het verstrekken van richtlijnen voor het uitvoeren van Scrum",
+            "B) Het leveren van technische documentatie",
+            "C) Het beheren van de productontwikkeling"
+        ],
+        "correctAnswer": "A"
+    },
+    {
+        "question": "Wat wordt bedoeld met 'Timeboxing' in Scrum?",
+        "options": [
+            "A) Het proces van het plannen van een productrelease",
+            "B) Het beperken van de duur van de verschillende Scrum events",
+            "C) Het maximaliseren van de tijd die besteed wordt aan elke taak"
+        ],
+        "correctAnswer": "B"
+    },
+    {
+        "question": "Wat is een 'Definition of Done' (DoD)?",
+        "options": [
+            "A) Een document dat de tijdslimieten voor elke taak beschrijft",
+            "B) De criteria die bepalen of een product of werkitem als voltooid wordt beschouwd",
+            "C) Een lijst van taken die in een sprint moeten worden voltooid"
+        ],
+        "correctAnswer": "B"
+    },
+    {
+        "question": "Wie bepaalt het 'Definition of Done'?",
+        "options": [
+            "A) Het Scrum Team",
+            "B) De Product Owner",
+            "C) De Scrum Master"
+        ],
+        "correctAnswer": "A"
+    },    
 ];
 
 // Willekeurige volgorde maken van de vragen
